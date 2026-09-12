@@ -1,0 +1,6 @@
+{
+  "name": "Hidroponía Sostenible UE Paquisha",
+  "description": "Plataforma interactiva de hidroponía sostenible de la Unidad Educativa Paquisha en La Bocana, Piñas, Ecuador.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
